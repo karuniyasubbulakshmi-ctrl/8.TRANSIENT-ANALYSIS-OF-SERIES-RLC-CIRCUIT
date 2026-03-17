@@ -22,18 +22,18 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
-
-
+![WhatsApp Image 2026-03-17 at 10 16 12 PM](https://github.com/user-attachments/assets/64bc6be6-c909-4eb4-9595-86561cb31fb5)
 
 **TABULATION:**
 
+![WhatsApp Image 2026-03-17 at 10 16 13 PM](https://github.com/user-attachments/assets/eae00c3b-18ac-451d-af9d-eafe109e3893)
 
-**Calculation:**
-
-
+**WAVEFORM:**
+![WhatsApp Image 2026-03-17 at 10 16 13 PM (1)](https://github.com/user-attachments/assets/e0f85039-8896-49aa-8a4a-e0bd42fc7f0b)
 
 **Marksplitup:**
 
+![WhatsApp Image 2026-03-17 at 10 16 13 PM (2)](https://github.com/user-attachments/assets/913a83f5-1469-4c56-9d56-1f1744664048)
 
 **RESULT:**
 
